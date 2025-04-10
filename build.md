@@ -1,1 +1,1 @@
-Spotify (arm64-v8a): 9.0.34.220  
+Spotify (arm64-v8a): 9.0.36.396  
