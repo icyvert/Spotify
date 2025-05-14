@@ -9,4 +9,3 @@ parallel-jobs = 1
 [Spotify]
 arch = "both"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-version = "9.0.36.683"
